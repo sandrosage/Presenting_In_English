@@ -1,0 +1,11 @@
+\usepackage[
+	backend=biber,
+	style=apa,
+	sortlocale=en_US,
+	backref=false,
+]{biblatex}
+
+% forbid pagebreaks in bib entry
+\patchcmd{\bibsetup}{\interlinepenalty=5000}{\interlinepenalty=10000}{}{}
+
+\addbibresource{./references/bibliography.bib}

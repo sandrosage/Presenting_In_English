@@ -1,0 +1,44 @@
+
+\usepackage{scrlayer}
+\usepackage[]{scrlayer-scrpage}
+
+% center headings
+\renewcommand\raggedchapter{\centering}
+
+
+\RedeclareSectionCommand[
+  beforeskip=.25\baselineskip,
+  afterskip=1sp plus -1sp minus 1sp,
+  style=section
+]{chapter}
+
+% black magic
+\let\originalsectionlinesformat\sectionlinesformat
+\renewcommand\sectionlinesformat[4]{%
+  \ifstr{#1}{chapter}{\raggedchapter\thispagestyle{\chapterpagestyle}}{}%
+  \originalsectionlinesformat{#1}{#2}{#3}{#4}%
+}
+
+\RedeclareSectionCommand[
+  beforeskip=3.5ex plus 1ex minus .2ex,
+  afterskip=1sp plus -1sp minus 1sp
+]{section}
+
+\RedeclareSectionCommands[
+  afterskip=-1em,
+  indent=2em
+]{subsection,subsubsection,paragraph}
+
+\renewcommand{\sectioncatchphraseformat}[4]{%
+  \hskip #2#3#4.%
+}
+% \addtokomafont{disposition}{\rmfamily}
+\setkomafont{subsection}{\normalsize}
+\setkomafont{subsubsection}{\normalsize\itshape}
+\setkomafont{paragraph}{\normalsize\mdseries\itshape}
+
+% page number
+\ohead*{\pagemark}
+\cfoot*{}
+
+\setcounter{secnumdepth}{-1}

@@ -1,0 +1,29 @@
+\KOMAoptions{
+  fontsize      = 11pt,
+  paper         = a4,
+  twoside       = false,
+  parskip       = half,
+  pagesize      = false,
+  listof        = totoc,
+  titlepage     = true,
+  headings      = small
+}
+
+\usepackage{scrhack}
+\usepackage[english]{babel} % localization
+\usepackage{setspace} % line spacing
+\usepackage[stretch=10]{microtype} % micro type adjustments
+\usepackage{csquotes} % quotations
+
+\input{./src/preamble/setup.tex}
+\input{./src/preamble/bibliography.tex}
+\input{./src/preamble/fonts.tex}
+\input{./src/preamble/meta.tex}
+
+\usepackage[hidelinks]{hyperref}
+\urlstyle{tt}
+
+\KOMAoptions{
+  mpinclude=false,
+  DIV=9
+}
