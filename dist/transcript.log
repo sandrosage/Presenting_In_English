@@ -1,5 +1,5 @@
-This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.10) (format=lualatex 2022.11.18)  27 DEC 2022 18:18
- restricted system commands enabled.
+This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.10) (format=lualatex 2022.11.18)  28 DEC 2022 17:44
+ system commands enabled.
 **transcript.tex
 (./transcript.tex
 LaTeX2e <2022-06-01> patch level 5
@@ -1317,23 +1317,30 @@ Package scrbase Warning: Usage of deprecated command `\ifstr'.
 (scrbase)                Please replace `\ifstr' by `\Ifstr' on input line 1.
 
 LaTeX Font Info:    Font shape `TU/HelveticaNeue(0)/b/n' will be
-(Font)              scaled to size 10.80414pt on input line 7.
+(Font)              scaled to size 10.80414pt on input line 3.
+
+Package scrbase Warning: Usage of deprecated command `\ifstr'.
+(scrbase)                The command has been renamed because of a
+(scrbase)                recommendation of The LaTeX Project Team.
+(scrbase)                Please replace `\ifstr' by `\Ifstr' on input line 3.
+
+[3
+
+]
 
 Package scrbase Warning: Usage of deprecated command `\ifstr'.
 (scrbase)                The command has been renamed because of a
 (scrbase)                recommendation of The LaTeX Project Team.
 (scrbase)                Please replace `\ifstr' by `\Ifstr' on input line 7.
 
-) (./src/mainmatter/text/conclusion.tex
+) [4] (./src/mainmatter/text/conclusion.tex
 
 Package scrbase Warning: Usage of deprecated command `\ifstr'.
 (scrbase)                The command has been renamed because of a
 (scrbase)                recommendation of The LaTeX Project Team.
 (scrbase)                Please replace `\ifstr' by `\Ifstr' on input line 1.
 
-)) (./src/backmatter/backmatter.tex [3
-
-])
+)) [5] (./src/backmatter/backmatter.tex [6])
 
 Package scrbase Warning: Usage of deprecated command `\ifstr'.
 (scrbase)                The command has been renamed because of a
@@ -1346,7 +1353,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraCode' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-[4
+[7
 
 ]
 (C:/Users/sandr/Dokumente/Ensemble_Learning/Presenting_In_English/dist/transcri
@@ -1362,23 +1369,23 @@ Package logreq Info: Writing requests to 'transcript.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26993 strings out of 477352
+ 27045 strings out of 477352
  100000,1977958 words of node,token memory allocated
- 504 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 9 attribute, 64 glue_spec,
- 5 attribute_list, 1 write, 1 pdf_action nodes
-   avail lists: 1:1,2:707,3:174,4:14,5:1222,6:96,7:3367,8:22,9:466,10:7,11:141,1
-2:1
- 47294 multiletter control sequences out of 65536+600000
+ 564 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 19 attribute, 64 glue_spec
+, 10 attribute_list, 1 write, 6 pdf_action nodes
+   avail lists: 1:1,2:930,3:314,4:55,5:3475,6:92,7:8368,8:78,9:466,10:31,11:606,
+12:1
+ 47335 multiletter control sequences out of 65536+600000
  56 fonts using 10558039 bytes
  108i,19n,128p,10604b,5042s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/sandr/AppData/Local/Microsoft/Windows/Fonts/firacode-regular.ttf><C:/U
 sers/sandr/AppData/Local/Microsoft/Windows/Fonts/minion pro italic.ttf><C:/Users
 /sandr/AppData/Local/Microsoft/Windows/Fonts/helveticaneue-01.ttf><C:/Users/sand
 r/AppData/Local/Microsoft/Windows/Fonts/minion pro regular.ttf>
-Output written on transcript.pdf (4 pages, 49993 bytes).
+Output written on transcript.pdf (7 pages, 76529 bytes).
 
-PDF statistics: 85 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 131072)
- 33 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 127 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 131072)
+ 41 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -19,82 +19,504 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
-    \entry{test}{misc}{}
+    \entry{bomberb}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=779110f3fedee4b7955f945e1e5d4fd1}{%
-           family={Prillwitz},
-           familyi={P\bibinitperiod},
-           given={Robin},
-           giveni={R\bibinitperiod},
+        {{un=0,uniquepart=base,hash=bb566ce882bd8580c5e3258dc1eaadd7}{%
+           family={Bansal},
+           familyi={B\bibinitperiod},
+           given={Rosy\bibnamedelima Singh},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{779110f3fedee4b7955f945e1e5d4fd1}
-      \strng{fullhash}{779110f3fedee4b7955f945e1e5d4fd1}
-      \strng{bibnamehash}{779110f3fedee4b7955f945e1e5d4fd1}
-      \strng{authorbibnamehash}{779110f3fedee4b7955f945e1e5d4fd1}
-      \strng{authornamehash}{779110f3fedee4b7955f945e1e5d4fd1}
-      \strng{authorfullhash}{779110f3fedee4b7955f945e1e5d4fd1}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \strng{namehash}{bb566ce882bd8580c5e3258dc1eaadd7}
+      \strng{fullhash}{bb566ce882bd8580c5e3258dc1eaadd7}
+      \strng{bibnamehash}{bb566ce882bd8580c5e3258dc1eaadd7}
+      \strng{authorbibnamehash}{bb566ce882bd8580c5e3258dc1eaadd7}
+      \strng{authornamehash}{bb566ce882bd8580c5e3258dc1eaadd7}
+      \strng{authorfullhash}{bb566ce882bd8580c5e3258dc1eaadd7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{5}
-      \field{month}{12}
-      \field{title}{\LaTeX\;Vorlage}
-      \field{urlday}{5}
+      \field{title}{Name of the explosive: Bomber-B}
+      \field{urlday}{28}
       \field{urlmonth}{12}
       \field{urlyear}{2022}
-      \field{year}{2022}
-      \field{dateera}{ce}
+      \field{year}{2012}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://example.com
+      \verb https://corporatelearn.blogspot.com/2012/03/name-of-explosive-bomber-b.html
       \endverb
       \verb{url}
-      \verb https://example.com
+      \verb https://corporatelearn.blogspot.com/2012/03/name-of-explosive-bomber-b.html
+      \endverb
+    \endentry
+    \entry{emmerson2007business}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=776ffb0cfddf611bc62c5ea6e66a8e0f}{%
+           family={Emmerson},
+           familyi={E\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hueber}%
+      }
+      \strng{namehash}{776ffb0cfddf611bc62c5ea6e66a8e0f}
+      \strng{fullhash}{776ffb0cfddf611bc62c5ea6e66a8e0f}
+      \strng{bibnamehash}{776ffb0cfddf611bc62c5ea6e66a8e0f}
+      \strng{authorbibnamehash}{776ffb0cfddf611bc62c5ea6e66a8e0f}
+      \strng{authornamehash}{776ffb0cfddf611bc62c5ea6e66a8e0f}
+      \strng{authorfullhash}{776ffb0cfddf611bc62c5ea6e66a8e0f}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783190625765}
+      \field{series}{The Macmillan business grammar and vocabulary series}
+      \field{title}{Business English handbook : advanced ; the whole of business in one book ; [B2, C1 : for class and self study]}
+      \field{year}{2007}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=Ui5kPgAACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=Ui5kPgAACAAJ
+      \endverb
+    \endentry
+    \entry{JumbuhPrabowo.2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2749fb81123ce7777ff8b8c1dda972fa}{%
+           family={{Jumbuh Prabowo}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{2749fb81123ce7777ff8b8c1dda972fa}
+      \strng{fullhash}{2749fb81123ce7777ff8b8c1dda972fa}
+      \strng{bibnamehash}{2749fb81123ce7777ff8b8c1dda972fa}
+      \strng{authorbibnamehash}{2749fb81123ce7777ff8b8c1dda972fa}
+      \strng{authornamehash}{2749fb81123ce7777ff8b8c1dda972fa}
+      \strng{authorfullhash}{2749fb81123ce7777ff8b8c1dda972fa}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{OPTIMIZING VAKOG AS HUMAN SENSES IN TEACHING ENGLISH FOR YOUNG LEARNERS}
+      \field{issn}{2460-853X}
+      \field{journaltitle}{Language Circle: Journal of Language and Literature}
+      \field{number}{1}
+      \field{title}{OPTIMIZING VAKOG AS HUMAN SENSES IN TEACHING ENGLISH FOR YOUNG LEARNERS}
+      \field{volume}{10}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.15294/lc.v10i1.4157
+      \endverb
+      \verb{file}
+      \verb Jumbuh Prabowo 2015 - OPTIMIZING VAKOG AS HUMAN SENSES:Attachments/Jumbuh Prabowo 2015 - OPTIMIZING VAKOG AS HUMAN SENSES.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journal.unnes.ac.id/nju/index.php/lc/article/view/4157
+      \endverb
+      \verb{url}
+      \verb https://journal.unnes.ac.id/nju/index.php/lc/article/view/4157
+      \endverb
+    \endentry
+    \entry{powell2011presenting}{book}{}
+      \list{publisher}{1}{%
+        {Heinle Cengage Learning}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781111832278}
+      \field{title}{Presenting in English: How to Give Successful Presentations}
+      \field{year}{2011}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=PrpKmgEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=PrpKmgEACAAJ
+      \endverb
+    \endentry
+    \entry{williams2008presentations}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cc18955a5629fb7ac02511b85efe892d}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={E.J.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan}%
+      }
+      \strng{namehash}{cc18955a5629fb7ac02511b85efe892d}
+      \strng{fullhash}{cc18955a5629fb7ac02511b85efe892d}
+      \strng{bibnamehash}{cc18955a5629fb7ac02511b85efe892d}
+      \strng{authorbibnamehash}{cc18955a5629fb7ac02511b85efe892d}
+      \strng{authornamehash}{cc18955a5629fb7ac02511b85efe892d}
+      \strng{authorfullhash}{cc18955a5629fb7ac02511b85efe892d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780230028784}
+      \field{series}{Elt Business/Professional Eng Series}
+      \field{title}{Presentations in English: Find Your Voice as a Presenter}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=eCDpGAAACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=eCDpGAAACAAJ
+      \endverb
+    \endentry
+    \entry{Zhou.2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b1a37e820a730061851a81dcca2d154}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zhi-Hua},
+           giveni={Z\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Chapman and Hall/CRC}%
+      }
+      \strng{namehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{fullhash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{bibnamehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{authorbibnamehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{authornamehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{authorfullhash}{6b1a37e820a730061851a81dcca2d154}
+      \field{extraname}{1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An up-to-date, self-contained introduction to a state-of-the-art machine learning approach, Ensemble Methods: Foundations and Algorithms shows how these}
+      \field{isbn}{9780429151095}
+      \field{title}{Ensemble Methods}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1201/b12207
+      \endverb
+      \verb{file}
+      \verb Ensemble Methods Foundations and Algorithms:Attachments/Ensemble Methods Foundations and Algorithms.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.taylorfrancis.com/books/mono/10.1201/b12207/ensemble-methods-zhi-hua-zhou
+      \endverb
+      \verb{url}
+      \verb https://www.taylorfrancis.com/books/mono/10.1201/b12207/ensemble-methods-zhi-hua-zhou
+      \endverb
+    \endentry
+    \entry{Zhou.2021}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b1a37e820a730061851a81dcca2d154}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zhi-Hua},
+           giveni={Z\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer Singapore}%
+      }
+      \strng{namehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{fullhash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{bibnamehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{authorbibnamehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{authornamehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{authorfullhash}{6b1a37e820a730061851a81dcca2d154}
+      \field{extraname}{2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-981-15-1966-6}
+      \field{title}{Machine Learning}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1007/978-981-15-1967-3
+      \endverb
+      \verb{file}
+      \verb Machine Learning:Attachments/Machine Learning.pdf:application/pdf
       \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
-    \entry{test}{misc}{}
+    \entry{bomberb}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=779110f3fedee4b7955f945e1e5d4fd1}{%
-           family={Prillwitz},
-           familyi={P\bibinitperiod},
-           given={Robin},
-           giveni={R\bibinitperiod},
+        {{un=0,uniquepart=base,hash=bb566ce882bd8580c5e3258dc1eaadd7}{%
+           family={Bansal},
+           familyi={B\bibinitperiod},
+           given={Rosy\bibnamedelima Singh},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{779110f3fedee4b7955f945e1e5d4fd1}
-      \strng{fullhash}{779110f3fedee4b7955f945e1e5d4fd1}
-      \strng{bibnamehash}{779110f3fedee4b7955f945e1e5d4fd1}
-      \strng{authorbibnamehash}{779110f3fedee4b7955f945e1e5d4fd1}
-      \strng{authornamehash}{779110f3fedee4b7955f945e1e5d4fd1}
-      \strng{authorfullhash}{779110f3fedee4b7955f945e1e5d4fd1}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \strng{namehash}{bb566ce882bd8580c5e3258dc1eaadd7}
+      \strng{fullhash}{bb566ce882bd8580c5e3258dc1eaadd7}
+      \strng{bibnamehash}{bb566ce882bd8580c5e3258dc1eaadd7}
+      \strng{authorbibnamehash}{bb566ce882bd8580c5e3258dc1eaadd7}
+      \strng{authornamehash}{bb566ce882bd8580c5e3258dc1eaadd7}
+      \strng{authorfullhash}{bb566ce882bd8580c5e3258dc1eaadd7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{5}
-      \field{month}{12}
-      \field{title}{\LaTeX\;Vorlage}
-      \field{urlday}{5}
+      \field{title}{Name of the explosive: Bomber-B}
+      \field{urlday}{28}
       \field{urlmonth}{12}
       \field{urlyear}{2022}
-      \field{year}{2022}
-      \field{dateera}{ce}
+      \field{year}{2012}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://example.com
+      \verb https://corporatelearn.blogspot.com/2012/03/name-of-explosive-bomber-b.html
       \endverb
       \verb{url}
-      \verb https://example.com
+      \verb https://corporatelearn.blogspot.com/2012/03/name-of-explosive-bomber-b.html
+      \endverb
+    \endentry
+    \entry{emmerson2007business}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=776ffb0cfddf611bc62c5ea6e66a8e0f}{%
+           family={Emmerson},
+           familyi={E\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hueber}%
+      }
+      \strng{namehash}{776ffb0cfddf611bc62c5ea6e66a8e0f}
+      \strng{fullhash}{776ffb0cfddf611bc62c5ea6e66a8e0f}
+      \strng{bibnamehash}{776ffb0cfddf611bc62c5ea6e66a8e0f}
+      \strng{authorbibnamehash}{776ffb0cfddf611bc62c5ea6e66a8e0f}
+      \strng{authornamehash}{776ffb0cfddf611bc62c5ea6e66a8e0f}
+      \strng{authorfullhash}{776ffb0cfddf611bc62c5ea6e66a8e0f}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783190625765}
+      \field{series}{The Macmillan business grammar and vocabulary series}
+      \field{title}{Business English handbook : advanced ; the whole of business in one book ; [B2, C1 : for class and self study]}
+      \field{year}{2007}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=Ui5kPgAACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=Ui5kPgAACAAJ
+      \endverb
+    \endentry
+    \entry{JumbuhPrabowo.2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2749fb81123ce7777ff8b8c1dda972fa}{%
+           family={{Jumbuh Prabowo}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{2749fb81123ce7777ff8b8c1dda972fa}
+      \strng{fullhash}{2749fb81123ce7777ff8b8c1dda972fa}
+      \strng{bibnamehash}{2749fb81123ce7777ff8b8c1dda972fa}
+      \strng{authorbibnamehash}{2749fb81123ce7777ff8b8c1dda972fa}
+      \strng{authornamehash}{2749fb81123ce7777ff8b8c1dda972fa}
+      \strng{authorfullhash}{2749fb81123ce7777ff8b8c1dda972fa}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{OPTIMIZING VAKOG AS HUMAN SENSES IN TEACHING ENGLISH FOR YOUNG LEARNERS}
+      \field{issn}{2460-853X}
+      \field{journaltitle}{Language Circle: Journal of Language and Literature}
+      \field{number}{1}
+      \field{title}{OPTIMIZING VAKOG AS HUMAN SENSES IN TEACHING ENGLISH FOR YOUNG LEARNERS}
+      \field{volume}{10}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.15294/lc.v10i1.4157
+      \endverb
+      \verb{file}
+      \verb Jumbuh Prabowo 2015 - OPTIMIZING VAKOG AS HUMAN SENSES:Attachments/Jumbuh Prabowo 2015 - OPTIMIZING VAKOG AS HUMAN SENSES.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journal.unnes.ac.id/nju/index.php/lc/article/view/4157
+      \endverb
+      \verb{url}
+      \verb https://journal.unnes.ac.id/nju/index.php/lc/article/view/4157
+      \endverb
+    \endentry
+    \entry{powell2011presenting}{book}{}
+      \list{publisher}{1}{%
+        {Heinle Cengage Learning}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781111832278}
+      \field{title}{Presenting in English: How to Give Successful Presentations}
+      \field{year}{2011}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=PrpKmgEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=PrpKmgEACAAJ
+      \endverb
+    \endentry
+    \entry{williams2008presentations}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cc18955a5629fb7ac02511b85efe892d}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={E.J.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan}%
+      }
+      \strng{namehash}{cc18955a5629fb7ac02511b85efe892d}
+      \strng{fullhash}{cc18955a5629fb7ac02511b85efe892d}
+      \strng{bibnamehash}{cc18955a5629fb7ac02511b85efe892d}
+      \strng{authorbibnamehash}{cc18955a5629fb7ac02511b85efe892d}
+      \strng{authornamehash}{cc18955a5629fb7ac02511b85efe892d}
+      \strng{authorfullhash}{cc18955a5629fb7ac02511b85efe892d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780230028784}
+      \field{series}{Elt Business/Professional Eng Series}
+      \field{title}{Presentations in English: Find Your Voice as a Presenter}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=eCDpGAAACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=eCDpGAAACAAJ
+      \endverb
+    \endentry
+    \entry{Zhou.2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b1a37e820a730061851a81dcca2d154}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zhi-Hua},
+           giveni={Z\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Chapman and Hall/CRC}%
+      }
+      \strng{namehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{fullhash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{bibnamehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{authorbibnamehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{authornamehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{authorfullhash}{6b1a37e820a730061851a81dcca2d154}
+      \field{extraname}{1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An up-to-date, self-contained introduction to a state-of-the-art machine learning approach, Ensemble Methods: Foundations and Algorithms shows how these}
+      \field{isbn}{9780429151095}
+      \field{title}{Ensemble Methods}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1201/b12207
+      \endverb
+      \verb{file}
+      \verb Ensemble Methods Foundations and Algorithms:Attachments/Ensemble Methods Foundations and Algorithms.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.taylorfrancis.com/books/mono/10.1201/b12207/ensemble-methods-zhi-hua-zhou
+      \endverb
+      \verb{url}
+      \verb https://www.taylorfrancis.com/books/mono/10.1201/b12207/ensemble-methods-zhi-hua-zhou
+      \endverb
+    \endentry
+    \entry{Zhou.2021}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b1a37e820a730061851a81dcca2d154}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Zhi-Hua},
+           giveni={Z\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer Singapore}%
+      }
+      \strng{namehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{fullhash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{bibnamehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{authorbibnamehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{authornamehash}{6b1a37e820a730061851a81dcca2d154}
+      \strng{authorfullhash}{6b1a37e820a730061851a81dcca2d154}
+      \field{extraname}{2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-981-15-1966-6}
+      \field{title}{Machine Learning}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1007/978-981-15-1967-3
+      \endverb
+      \verb{file}
+      \verb Machine Learning:Attachments/Machine Learning.pdf:application/pdf
       \endverb
     \endentry
   \enddatalist
