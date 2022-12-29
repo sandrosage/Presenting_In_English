@@ -83,7 +83,6 @@
       \field{series}{The Macmillan business grammar and vocabulary series}
       \field{title}{Business English handbook : advanced ; the whole of business in one book ; [B2, C1 : for class and self study]}
       \field{year}{2007}
-      \true{nocite}
       \verb{urlraw}
       \verb https://books.google.de/books?id=Ui5kPgAACAAJ
       \endverb
@@ -128,26 +127,6 @@
       \endverb
       \verb{url}
       \verb https://journal.unnes.ac.id/nju/index.php/lc/article/view/4157
-      \endverb
-    \endentry
-    \entry{powell2011presenting}{book}{}
-      \list{publisher}{1}{%
-        {Heinle Cengage Learning}%
-      }
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9781111832278}
-      \field{title}{Presenting in English: How to Give Successful Presentations}
-      \field{year}{2011}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://books.google.de/books?id=PrpKmgEACAAJ
-      \endverb
-      \verb{url}
-      \verb https://books.google.de/books?id=PrpKmgEACAAJ
       \endverb
     \endentry
     \entry{williams2008presentations}{book}{}
@@ -334,7 +313,6 @@
       \field{series}{The Macmillan business grammar and vocabulary series}
       \field{title}{Business English handbook : advanced ; the whole of business in one book ; [B2, C1 : for class and self study]}
       \field{year}{2007}
-      \true{nocite}
       \verb{urlraw}
       \verb https://books.google.de/books?id=Ui5kPgAACAAJ
       \endverb
@@ -379,26 +357,6 @@
       \endverb
       \verb{url}
       \verb https://journal.unnes.ac.id/nju/index.php/lc/article/view/4157
-      \endverb
-    \endentry
-    \entry{powell2011presenting}{book}{}
-      \list{publisher}{1}{%
-        {Heinle Cengage Learning}%
-      }
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9781111832278}
-      \field{title}{Presenting in English: How to Give Successful Presentations}
-      \field{year}{2011}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://books.google.de/books?id=PrpKmgEACAAJ
-      \endverb
-      \verb{url}
-      \verb https://books.google.de/books?id=PrpKmgEACAAJ
       \endverb
     \endentry
     \entry{williams2008presentations}{book}{}

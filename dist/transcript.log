@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.10) (format=lualatex 2022.11.18)  28 DEC 2022 17:44
+This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.10) (format=lualatex 2022.11.18)  29 DEC 2022 12:12
  system commands enabled.
 **transcript.tex
 (./transcript.tex
@@ -1370,22 +1370,22 @@ Package logreq Info: Writing requests to 'transcript.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  27045 strings out of 477352
- 100000,1977958 words of node,token memory allocated
+ 125003,1977958 words of node,token memory allocated
  564 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 19 attribute, 64 glue_spec
 , 10 attribute_list, 1 write, 6 pdf_action nodes
-   avail lists: 1:1,2:930,3:314,4:55,5:3475,6:92,7:8368,8:78,9:466,10:31,11:606,
+   avail lists: 1:7,2:873,3:286,4:60,5:3853,6:96,7:9253,8:78,9:466,10:31,11:649,
 12:1
- 47335 multiletter control sequences out of 65536+600000
+ 47336 multiletter control sequences out of 65536+600000
  56 fonts using 10558039 bytes
  108i,19n,128p,10604b,5042s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/sandr/AppData/Local/Microsoft/Windows/Fonts/firacode-regular.ttf><C:/U
 sers/sandr/AppData/Local/Microsoft/Windows/Fonts/minion pro italic.ttf><C:/Users
 /sandr/AppData/Local/Microsoft/Windows/Fonts/helveticaneue-01.ttf><C:/Users/sand
 r/AppData/Local/Microsoft/Windows/Fonts/minion pro regular.ttf>
-Output written on transcript.pdf (7 pages, 76529 bytes).
+Output written on transcript.pdf (7 pages, 78879 bytes).
 
-PDF statistics: 127 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 131072)
+PDF statistics: 132 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 131072)
  41 words of extra memory for PDF output out of 10000 (max. 100000000)
 
