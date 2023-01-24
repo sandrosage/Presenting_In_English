@@ -81,7 +81,8 @@
       \field{labeltitlesource}{title}
       \field{isbn}{9783190625765}
       \field{series}{The Macmillan business grammar and vocabulary series}
-      \field{title}{Business English handbook : advanced ; the whole of business in one book ; [B2, C1 : for class and self study]}
+      \field{subtitle}{: advanced ; the whole of business in one book ; [B2, C1 : for class and self study]}
+      \field{title}{Business English handbook}
       \field{year}{2007}
       \verb{urlraw}
       \verb https://books.google.de/books?id=Ui5kPgAACAAJ
@@ -311,7 +312,8 @@
       \field{labeltitlesource}{title}
       \field{isbn}{9783190625765}
       \field{series}{The Macmillan business grammar and vocabulary series}
-      \field{title}{Business English handbook : advanced ; the whole of business in one book ; [B2, C1 : for class and self study]}
+      \field{subtitle}{: advanced ; the whole of business in one book ; [B2, C1 : for class and self study]}
+      \field{title}{Business English handbook}
       \field{year}{2007}
       \verb{urlraw}
       \verb https://books.google.de/books?id=Ui5kPgAACAAJ

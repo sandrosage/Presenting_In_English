@@ -1,7 +1,7 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{\nonumberline Introduction}{3}{chapter*.3}%
 \contentsline {chapter}{\nonumberline Main Transcript}{3}{chapter*.5}%
-\contentsline {section}{\nonumberline PART I}{3}{section*.7}%
-\contentsline {section}{\nonumberline PART II}{4}{section*.9}%
+\contentsline {section}{\nonumberline PART I - TRANSCRIPT}{3}{section*.7}%
+\contentsline {section}{\nonumberline PART II - ANALYSIS}{4}{section*.9}%
 \contentsline {chapter}{\nonumberline Conclusion}{5}{chapter*.11}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
